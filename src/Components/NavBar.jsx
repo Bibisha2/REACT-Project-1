@@ -6,7 +6,7 @@ function NavBar() {
 
       
       <div className="text-white text-[22px] font-bold">
-        MySite
+        Portfolio
       </div>
 
       
