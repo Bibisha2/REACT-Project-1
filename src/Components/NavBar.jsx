@@ -30,6 +30,13 @@ function NavBar() {
           <a href="#contact" className="text-white text-base hover:text-cyan-400 transition">
             Contact
           </a>
+          
+        </li>
+        <li>
+          <a href="#counter" className="text-white text-base hover:text-cyan-400 transition">
+            Counter
+          </a>
+
         </li>
       </ul>
 

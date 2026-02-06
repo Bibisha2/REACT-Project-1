@@ -6,6 +6,7 @@ import Footer from "./Components/Footer";
 import About from "./Components/About";
 import Services from "./Components/Services";
 import Contact from "./Components/Contact";
+import Counter from "./Components/Counter";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
 <About/>
 <Services/>
 <Contact/>
+<Counter/>
 <Footer/>
     </>
   );
